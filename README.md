@@ -6,6 +6,6 @@ The process of web scraping involves three main steps:
  2.Parsing data: Reading and filtering the data for valuable bits.
  3.Outputting data: Taking the harvested data and applying it to whatever the user wants.
 
-### Web Crawling
+## Web Crawling
 Web crawling is the process of using a bot to find and index web pages. Web crawlers, also known as spiders or spiderbots, are often operated by search engines to help users find information on the web.
 
